@@ -1,0 +1,1 @@
+<link type="text/css" rel="stylesheet" href="${pageContext.servletContext.contextPath}/static/bootstrap/css/bootstrap.min.css"/>
