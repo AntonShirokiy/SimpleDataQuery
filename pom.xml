@@ -11,7 +11,7 @@
          
         <endorsed.dir>${project.build.directory}/endorsed</endorsed.dir>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <spring.version>4.2.6.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <versioneye.maven.version>3.9.2</versioneye.maven.version>   
         <java.version>1.8</java.version> 
             <javac.src.version>1.8</javac.src.version>
